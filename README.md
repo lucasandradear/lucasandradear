@@ -1,4 +1,4 @@
-## Olá! Meu nome é Lucas 👋
+## Bem-vindo(a)! 🤖
 
 <div align="center">
   
